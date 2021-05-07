@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		Student student = new Student(1,"nesibee","Çetin","Java&React",123);
+		Student student = new Student(1,"nesibe","Çetin","Java&React",123);
 		Instructor instructor = new Instructor(2,"Engin","Demiroğ","Java&React");
 		StudentManager studentmanager=new StudentManager();
 		InstructorManager instructormanager=new InstructorManager();
